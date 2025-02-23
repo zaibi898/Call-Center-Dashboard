@@ -8,9 +8,21 @@ This project is a Call Center Dashboard designed to monitor the performance of a
 ✅ Peak Hours Analysis – Identifying the busiest call times
 ✅ Missed vs. Answered Calls – Comparison of missed and handled calls
 
-# Business problems
+# DASHBOARD 1: HOME
 
-Chart's Requirement
+KPI'S Requirement
+1.Total Number of Calls: We need to track and display the total number of calls received by our call
+center over a specified period.
+2.Total Call Duration in Hours: It is crucial to understand the total amount of time our call center staff spends on calls in hours, which can help us in resource allocation and capacity planning.
+3.Total Call Duration in Minutes: Similar to the total call duration in hours, this KPI provides the total call time but in minutes, offering a more granular view of call durations.
+4. Average Call Duration in Minutes: To assess the efficiency of our agents, we need to calculate and display the average call duration in minutes. This metric can help identify trends in call handling. 5.Response Time Percentage: Response time is a critical factor in customer satisfaction. This KPI should display the percentage of calls answered within a predefined time frame, helping us gauge our ability to provide prompt service.
+DATA TUTORIALS
+
+# DASHBOARD 1: GRID
+Create a Grid View dashboard displaying a table of all call details in Power BI This should allow a user to export the grid for various filters applied
+LD
+
+# Chart's Requirement
 1. Total Call by Day (Column Chart): Display a column chart that shows the total number of calls on each day over a specified time period.
 2. Total Calls by State (Filled Map Chart): Create a filled map chart that visualizes the total number of calls received from different states or regions.
 3. Top Reason for Calls (Tree Map): Implement a tree map chart to display the top reasons for calls. Each box in the tree map represents a call reason.
