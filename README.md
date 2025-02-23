@@ -9,8 +9,8 @@ This project is a Call Center Dashboard designed to monitor the performance of a
 ✅ Missed vs. Answered Calls – Comparison of missed and handled calls
 
 # DASHBOARD 1: HOME
-
 KPI'S Requirement
+
 1.Total Number of Calls: We need to track and display the total number of calls received by our call
 center over a specified period.
 
