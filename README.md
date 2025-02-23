@@ -1,12 +1,17 @@
 # Call-Center-Dashboard
 This project is a Call Center Dashboard designed to monitor the performance of a call center. It provides key insights and metrics, including:
 
-✅ Total Calls Handled – Number of calls attended , 
-✅ Call Duration Analysis – Average duration of each call
-✅ Agent Performance – Tracking individual agent performance
-✅ Customer Satisfaction – Customer feedback and ratings
-✅ Peak Hours Analysis – Identifying the busiest call times
-✅ Missed vs. Answered Calls – Comparison of missed and handled calls
+✅ Total Calls Handled – Number of calls attended.
+
+✅ Call Duration Analysis – Average duration of each call.
+
+✅ Agent Performance – Tracking individual agent performance.
+
+✅ Customer Satisfaction – Customer feedback and ratings.
+
+✅ Peak Hours Analysis – Identifying the busiest call times.
+
+✅ Missed vs. Answered Calls – Comparison of missed and handled calls.
 
 # DASHBOARD 1: HOME
 KPI'S Requirement
@@ -18,7 +23,7 @@ center over a specified period.
 
 3.Total Call Duration in Minutes: Similar to the total call duration in hours, this KPI provides the total call time but in minutes, offering a more granular view of call durations.
 
-4. Average Call Duration in Minutes: To assess the efficiency of our agents, we need to calculate and display the average call duration in minutes. This metric can help identify trends in call handling. 5.Response Time Percentage: Response time is a critical factor in customer satisfaction. This KPI should display the percentage of calls answered within a predefined time frame, helping us gauge our ability to provide prompt service.
+4.Average Call Duration in Minutes: To assess the efficiency of our agents, we need to calculate and display the average call duration in minutes. This metric can help identify trends in call handling. 5.Response Time Percentage: Response time is a critical factor in customer satisfaction. This KPI should display the percentage of calls answered within a predefined time frame, helping us gauge our ability to provide prompt service.
 
 
 # DASHBOARD 1: GRID
